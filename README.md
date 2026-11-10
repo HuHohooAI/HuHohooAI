@@ -1,6 +1,7 @@
 # HuHohooAI
 
 [![Blog](https://img.shields.io/badge/Blog-huhohoo.com-blue?style=flat-square)](https://huhohoo.com)
+[![Email](https://img.shields.io/badge/Email-huhohooai%40163.com-blue?style=flat-square)](mailto:huhohooai@163.com)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
